@@ -19,7 +19,7 @@ export default function Hero() {
 			>
 				Free{' '}
 				<Link href="https://kakitu.org" className="text-nano hover:underline">
-					Nano cryptocurrency
+					Kakitu cryptocurrency
 				</Link>{' '}
 				(KSHS) Faucet
 			</div>
