@@ -87,11 +87,11 @@ export default function AddressInput({
 		>
 			<div className="w-4"></div>
 			<InputBase
-				id="nano-address"
+				id="kakitu-address"
 				sx={{ ml: 1, flex: 1 }}
-				placeholder="Your Nano address: nano_"
+				placeholder="Your Kakitu address: kshs_"
 				value={value}
-				inputProps={{ 'aria-label': 'your nano address' }}
+				inputProps={{ 'aria-label': 'your kakitu address' }}
 				onChange={handleOnChange}
 				className="!text-slate-700 dark:!text-zinc-400"
 				inputRef={inputRef}

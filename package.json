@@ -1,7 +1,7 @@
 {
-	"name": "nanodrop.io",
+	"name": "kakitudrop",
 	"version": "2.0.0",
-	"description": "Free Nano cryptocurrency (XNO) Faucet",
+	"description": "Free Kakitu cryptocurrency (KSHS) Faucet",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",

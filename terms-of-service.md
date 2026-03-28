@@ -1,8 +1,8 @@
-# NanoDrop.io - Terms of Service
+# KakituDrop - Terms of Service
 
 _Effective Date: October 10, 2023_
 
-Welcome to NanoDrop.io. By using the Service, you agree to comply with and be bound by the following Terms of Service. Please read these Terms carefully before using the Service.
+Welcome to KakituDrop. By using the Service, you agree to comply with and be bound by the following Terms of Service. Please read these Terms carefully before using the Service.
 
 ## 1. Acceptance of Terms
 
@@ -16,7 +16,7 @@ We are committed to protecting your privacy. When you use the Service, we may co
 
 - **Country Based on IP Address:** We determine your country based on your IP address.
 
-- **Cryptocurrency Wallet Public Address:** We collect your cryptocurrency wallet public address to facilitate the distribution of Nano cryptocurrency.
+- **Cryptocurrency Wallet Public Address:** We collect your cryptocurrency wallet public address to facilitate the distribution of Kakitu cryptocurrency.
 
 - **Browser Information:** We may collect information about your browser, device type, and operating system to improve the user experience and troubleshoot technical issues.
 
@@ -28,12 +28,12 @@ The information collected is used solely for the following purposes:
 
 - To protect the Service against spam, fraud, and abuse.
 - To ensure the security and integrity of the Service.
-- To distribute Nano cryptocurrency to your provided wallet address.
+- To distribute Kakitu cryptocurrency to your provided wallet address.
 - To provide transparency to the community about the countries that use the service most
 
 ## 4. Service Purpose and Limitations
 
-NanoDrop.io is designed to facilitate access to Nano cryptocurrency (XNO) for new users. Please note the following:
+KakituDrop is designed to facilitate access to Kakitu cryptocurrency (KSHS) for new users. Please note the following:
 
 - The service is intended for legitimate users and should not be abused for any malicious purposes.
 - To prevent spamming and maintain fairness, we have implemented certain limits on the use of our service.
@@ -51,10 +51,10 @@ To the fullest extent permitted by applicable law, we shall not be liable for an
 
 ## 7. Changes to Terms
 
-We may update these Terms of Service from time to time without prior notice. Any changes will be effective immediately upon posting on NanoDrop.io. It is your responsibility to review these Terms regularly. Your continued use of the Service after any changes constitute acceptance of the revised Terms.
+We may update these Terms of Service from time to time without prior notice. Any changes will be effective immediately upon posting on KakituDrop. It is your responsibility to review these Terms regularly. Your continued use of the Service after any changes constitute acceptance of the revised Terms.
 
 ## 8. Contact Us
 
-If you have any questions or concerns regarding these Terms of Service or our privacy practices, please contact us at hello@nanodrop.io.
+If you have any questions or concerns regarding these Terms of Service or our privacy practices, please contact us at hello@drop.kakitu.org.
 
-By using NanoDrop.io, you agree to these Terms of Service. Thank you for using our service!
+By using KakituDrop, you agree to these Terms of Service. Thank you for using our service!

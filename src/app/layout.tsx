@@ -14,23 +14,23 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
 	title: {
-		default: 'Nano Faucet | NanoDrop.io',
-		template: '%s | NanoDrop.io',
+		default: 'Kakitu Faucet | KakituDrop',
+		template: '%s | KakituDrop',
 	},
 	description:
-		'Welcome to NanoDrop.io - a clean, easy, fast and open-source faucet to get started with Nano (XNO): a fee-less, instant and scalable cryptocurrency.',
-	applicationName: 'Nanodrop.io',
+		'Welcome to KakituDrop - a clean, easy, fast and open-source faucet to get started with Kakitu (KSHS): a fee-less, instant and scalable cryptocurrency.',
+	applicationName: 'KakituDrop',
 	authors: {
-		url: 'https://github.com/anarkrypto',
-		name: 'anarkrypto',
+		url: 'https://github.com/kakitucurrency',
+		name: 'kakitucurrency',
 	},
 	category: 'Cryptocurrency Faucet',
 	openGraph: {
-		title: 'NanoDrop.io | Free Nano (XNO) Cryptocurrency Faucet',
+		title: 'KakituDrop | Free Kakitu (KSHS) Cryptocurrency Faucet',
 		description:
-			'Welcome to NanoDrop.io - a clean, easy, fast and open-source faucet to get started with Nano (XNO): a fee-less, instant and scalable cryptocurrency.',
+			'Welcome to KakituDrop - a clean, easy, fast and open-source faucet to get started with Kakitu (KSHS): a fee-less, instant and scalable cryptocurrency.',
 		url: `${SITE_URL}/`,
-		siteName: 'NanoDrop.io',
+		siteName: 'KakituDrop',
 		locale: 'en_US',
 		type: 'website',
 	},

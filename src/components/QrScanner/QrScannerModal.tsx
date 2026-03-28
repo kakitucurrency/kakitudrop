@@ -100,7 +100,7 @@ export default function QrScannerModal({
 							<div
 								className={`absolute top-1/2 -translate-y-1/2 -translate-x-1/2 p-2 rounded left-1/2 border border-rose-500 bg-rose-700 font-semibold text-white ${roboto.className} uppercase text-sm`}
 							>
-								Invalid Nano Address!
+								Invalid Kakitu Address!
 							</div>
 						)}
 					</div>

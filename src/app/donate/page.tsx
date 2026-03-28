@@ -29,15 +29,15 @@ export default function Donate() {
 					<h1
 						className={`flex ${montserrat.className} font-normal text-xl sm:text-2xl uppercase py-4`}
 					>
-						Donate with NANO
+						Donate with KSHS
 					</h1>
 				</div>
 				<div className="w-full sm:w-fit flex justify-center p-8 bg-white shadow rounded-xl dark:hidden">
-					<QRCode value={`nano:${account}`} fgColor={slate['800']} />
+					<QRCode value={`kshs:${account}`} fgColor={slate['800']} />
 				</div>
 				<div className="w-full sm:w-fit justify-center p-8 border border-zinc-700 shadow rounded-xl hidden dark:flex">
 					<QRCode
-						value={`nano:${account}`}
+						value={`kshs:${account}`}
 						fgColor={'#fff'}
 						bgColor="#101217"
 						className="rounded-lg"
@@ -54,7 +54,7 @@ export default function Donate() {
 					</ButtonBase>
 					<ButtonBase
 						className="text-sm flex-1 p-4 !bg-nano/50 !text-white !rounded-xl shadow font-semibold break-all text-center"
-						href={`nano:${account}`}
+						href={`kshs:${account}`}
 					>
 						Open Wallet
 					</ButtonBase>

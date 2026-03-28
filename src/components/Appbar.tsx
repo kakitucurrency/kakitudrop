@@ -51,7 +51,7 @@ export default function Appbar() {
 							<div
 								className={`${montserrat.className} items-center font-light text-xl sm:text-2xl uppercase text-nano hidden sm:flex`}
 							>
-								<span>Nano</span>
+								<span>Kakitu</span>
 								<span className="px-1">
 									<DropSVG />
 								</span>
@@ -64,7 +64,7 @@ export default function Appbar() {
 				{isHome && (
 					<>
 						<div className="whitespace-nowrap py-1 px-2 border border-slate-200 dark:border-zinc-800 rounded-full text-sm sm:text-base hidden sm:block">
-							1 XNO ={' '}
+							1 KSHS ={' '}
 							{priceError
 								? 'ERROR'
 								: priceIsLoading
@@ -72,7 +72,7 @@ export default function Appbar() {
 								: `US$ ${price}`}
 						</div>
 						<div className="whitespace-nowrap py-1 px-2 border border-slate-200 dark:border-zinc-800 rounded-full text-sm sm:text-base sm:hidden">
-							1Ӿ ={' '}
+							1 KSHS ={' '}
 							{priceError ? 'ERROR' : priceIsLoading ? '-- USD' : `$${price}`}
 						</div>
 					</>

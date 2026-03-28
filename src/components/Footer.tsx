@@ -5,7 +5,7 @@ const navigation = {
 	main: [
 		{
 			name: 'Wallets',
-			href: 'https://hub.nano.org/wallets/open-source/75/allows-representative-changes/76/non-custodial/291',
+			href: 'https://kakitu.org/wallets',
 			external: true,
 		},
 		{ name: 'Donate', href: '/donate' },
@@ -115,10 +115,10 @@ export default function Footer() {
 						{CONTACT_EMAIL}
 					</Link>
 					<p className="mt-4 text-xs md:mt-0">
-						Ӿ {new Date().getFullYear()} NanoDrop by{' '}
+						KSHS {new Date().getFullYear()} KakituDrop by{' '}
 						<Link
 							target="_blank"
-							href="https://github.com/anarkrypto"
+							href="https://github.com/kakitucurrency"
 							className="text-sky-600 hover:underline"
 						>
 							Anarkrypto

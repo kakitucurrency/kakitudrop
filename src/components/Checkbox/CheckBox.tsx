@@ -11,7 +11,7 @@ import useFaucet from '@/hooks/useFaucet'
 import './checkbox.css'
 
 import RefreshSVG from './assets/refresh.svg'
-import XnoDropSvg from './assets/xno-drop.svg'
+import KsHsDropSvg from './assets/xno-drop.svg'
 import { explorerLinkFromHash } from '@/utils'
 
 export interface CheckBoxProps {
@@ -145,7 +145,7 @@ export default function CheckBox({ nanoAddress }: CheckBoxProps) {
 												to: Unit.NANO,
 											})}
 										</span>{' '}
-										Nano
+										Kakitu
 									</>
 								)) || (
 									<>
@@ -162,7 +162,7 @@ export default function CheckBox({ nanoAddress }: CheckBoxProps) {
 												  })
 												: 'some'}
 										</span>{' '}
-										Nano
+										Kakitu
 									</>
 								)}
 						</label>
@@ -204,7 +204,7 @@ export default function CheckBox({ nanoAddress }: CheckBoxProps) {
 								className="flex flex-col items-center"
 							>
 								<Image
-									src={XnoDropSvg}
+									src={KsHsDropSvg}
 									alt={''}
 									className="w-7 h-7 opacity-80"
 								/>
@@ -212,7 +212,7 @@ export default function CheckBox({ nanoAddress }: CheckBoxProps) {
 									id="nd-anchor-logo-text"
 									className="text-xs text-slate-500 hidden"
 								>
-									NanoDrop.io
+									KakituDrop
 								</div>
 							</div>
 						)}

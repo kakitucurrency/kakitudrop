@@ -18,7 +18,7 @@ export default function DropListTableMobile({ drops }: { drops: Drop[] }) {
 					<div className="flex justify-between items-center">
 						<div className="flex flex-col items-end">
 							<p className="text-sm font-semibold text-slate-800 dark:text-zinc-400">
-								{convert(drop.amount, { from: Unit.raw, to: Unit.NANO })} NANO
+								{convert(drop.amount, { from: Unit.raw, to: Unit.NANO })} KSHS
 							</p>
 						</div>
 						<div className="flex flex-col items-end">
